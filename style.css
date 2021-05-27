@@ -1,0 +1,26 @@
+*{
+    background-color:lavenderblush;
+}
+h1{
+    color: aqua;
+}
+a{
+    color:lightskyblue;
+    font-size: 19px;
+}
+.bigbox{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.box{
+    border: solid;
+    border-color: thistle;
+    justify-content: right;
+    align-items: center;
+    align-self: center;
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 15px;
+    margin-right: 15px;
+}
